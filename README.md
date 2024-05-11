@@ -13,4 +13,4 @@ TP3:
   Lo que paso fue:
               . En las 10 ejecuciones del programa, sin ningun cambio, el valor final siempre dió como resultado 0, y su tiempo de ejecucion era de un promedio de 0.02 segundos.
               . En las 10 ejecuciones del programa habiendo borrado los #, El resultado final dió distintos valores ( positivos y negativos), y su tiempo de ejecucion fue de un promedio de 4.03 segundos.
- Esto sucedio ya que al borrar los # 
+ Esto sucedio ya que al borrar los # se ejecutan los segundos bucles, y así aumentando el tiempo de ejecución.
