@@ -19,4 +19,4 @@ TP3:
 <img src= "./TP3/Entrega tp3.png" />
 
 2-b:
-<img src= "./TP3/Ej2bTP3.webp" />
+<img src= "./TP3/Ej2bTP3.png" />
