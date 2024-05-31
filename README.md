@@ -20,3 +20,29 @@ TP3:
 
 2-b:
 <img src= "./TP3/Ej2bTP3.png" />
+
+TP4
+
+a:
+
+Captura de pantalla la creación de los servicios y que los servicios están
+corriendo vía docker-compose ps.
+
+
+<img src="TP4/docker ps.png">
+
+b:
+
+Captura localhost:8000 :
+
+<img src="TP4/Local host8000.png">
+
+Captura localhost:
+
+<img src="TP4/Local host.png">
+
+c:
+
+Captura pagina de la uni:
+
+<img src="TP4/Pagina uni.png">
