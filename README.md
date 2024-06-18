@@ -59,3 +59,26 @@ c:
 Captura pagina de la uni:
 
 <img src= "TP4/Pagina uni 2.0.png">
+
+TP5
+
+PARTE1:
+
+Opte por hacer la calculadora simple.
+
+Aqui converti el script en un ejecutable:
+
+<img src=TP5/convirtiendoEjecutable.png>
+
+Aqui se puede ver el script en ejecucion:
+<img src =TP5/ejecucionParte1.png>
+
+PARTE2:
+
+Opter por la opcion de devolver el genero segun el nombre ingresado.
+
+Aqui lo converti en ejecutable:
+<img src=TP5/convirtiendoEjecutableParte2.png>
+
+Aqui se puede ver el script en ejecucion:
+<img src =TP5/ejecucionParte2.png>
