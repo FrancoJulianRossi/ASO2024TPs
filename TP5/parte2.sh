@@ -3,5 +3,11 @@
 echo "Ingrese un nombre"
 read nombre
 echo "El genero es: "
-curl -s https://api.genderize.io/?name=$nombre | jq -r ".gender" 
-echo "Male = masculino // Female = femenino"
+#If que detecta si nombre el nombre ingresado en la api es "male" o "female", y lo traduce al español
+if [ $( curl -s https://api.genderize.io/?name=$nombre | jq -r ".gender"  ) = "male" ]
+then
+    echo "Masculino"
+else
+    echo "Femenino"
+fi
+
